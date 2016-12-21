@@ -5,6 +5,12 @@ import java.util.Collection;
 
 import com.seatavdisor.ticketing.api.OrgCategory;
 
+/**
+ * An <code>Organization</code> can sell tickets or host <code>Event</code>
+ * Organizations commonly belong to an <code>OrgCategory</code>
+ * @author drem
+ *
+ */
 public class Organization {
 
 	private String name;

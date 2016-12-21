@@ -1,7 +1,13 @@
 package com.seatavdisor.ticketing.model;
 
-import java.sql.Date;
+import java.util.Date;
 
+/**
+ * A <code>Performance</code> begins at a specific time and lasts for a pre-defined time period.
+ * A performance has a maximum capacity
+ * @author drem
+ *
+ */
 public class Performance {
 
 	private Date startTime; // Start time

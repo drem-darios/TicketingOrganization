@@ -4,6 +4,13 @@ import java.util.Collection;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * Events have a title, a marketing URL, and one or more performances.
+ * <code>Performance</code> can be at the same or multiple <code>Venue</code>
+ * A given <code>Performance</code> must be performed only at a single <code>Venue</code>
+ * @author drem
+ *
+ */
 public class Event {
 
 	private String title;
