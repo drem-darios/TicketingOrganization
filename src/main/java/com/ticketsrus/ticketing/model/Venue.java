@@ -1,4 +1,4 @@
-package com.seatavdisor.ticketing.model;
+package com.ticketsrus.ticketing.model;
 
 /**
  * A <code>Venue</code> is the location where a <code>Performance</code> will take place.

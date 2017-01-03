@@ -1,4 +1,4 @@
-package com.seatavdisor.ticketing.model;
+package com.ticketsrus.ticketing.model;
 
 import java.util.Collection;
 import java.util.HashMap;

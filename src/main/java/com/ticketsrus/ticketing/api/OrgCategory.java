@@ -1,4 +1,4 @@
-package com.seatavdisor.ticketing.api;
+package com.ticketsrus.ticketing.api;
 
 /**
  * Organizations belong to one of these categories. 

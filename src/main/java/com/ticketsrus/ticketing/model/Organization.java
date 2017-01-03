@@ -1,9 +1,9 @@
-package com.seatavdisor.ticketing.model;
+package com.ticketsrus.ticketing.model;
 
 import java.util.ArrayList;
 import java.util.Collection;
 
-import com.seatavdisor.ticketing.api.OrgCategory;
+import com.ticketsrus.ticketing.api.OrgCategory;
 
 /**
  * An <code>Organization</code> can sell tickets or host <code>Event</code>

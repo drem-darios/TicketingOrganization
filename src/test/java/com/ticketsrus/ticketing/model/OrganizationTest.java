@@ -1,10 +1,14 @@
-package com.seatavdisor.ticketing.model;
+package com.ticketsrus.ticketing.model;
 
 import java.util.Date;
 
 import org.junit.Test;
 
-import com.seatavdisor.ticketing.api.OrgCategory;
+import com.ticketsrus.ticketing.api.OrgCategory;
+import com.ticketsrus.ticketing.model.Event;
+import com.ticketsrus.ticketing.model.Organization;
+import com.ticketsrus.ticketing.model.Performance;
+import com.ticketsrus.ticketing.model.Venue;
 
 public class OrganizationTest {
 
